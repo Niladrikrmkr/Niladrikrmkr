@@ -1,9 +1,9 @@
-![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Niladri Karmakar</h1>
 <h3 align="center">A aspiring full stack web developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niladrikrmkr&label=Profile%20views&color=0e75b6&style=flat" alt="niladrikrmkr" /> </p>
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niladrikrmkr&show_icons=true&locale=en" alt="niladrikrmkr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niladrikrmkr&" alt="niladrikrmkr" /></p>
+<p><img align="center" background-color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=niladrikrmkr&" alt="niladrikrmkr" /></p>
