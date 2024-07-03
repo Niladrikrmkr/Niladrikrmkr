@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Front-end devlopment**
 
+- 🌱 I’m currently learning **React JS**
+
 - 📫 How to reach me **niladrikarmakar912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
